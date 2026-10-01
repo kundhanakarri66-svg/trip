@@ -1,0 +1,7 @@
+{
+  "name": "YatriBudget - Expert India Budget Travel Planner",
+  "description": "Plan complete, safe, and realistic budget trips across India with detailed day-by-day itineraries, transit comparisons, cost breakdowns in ₹, and money-saving hacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
